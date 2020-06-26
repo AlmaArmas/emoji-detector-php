@@ -9,10 +9,10 @@ Installation
 ------------
 
 ```
-composer require p3k/emoji-detector
+composer require al/emoji-detector
 ```
 
-Or include `src/Emoji.php` in your project, and make sure the `map.json` and `regexp.json` files are available in the same folder as `Emoji.php`. You don't need any of the other files for use in your own projects.
+Please take a note: this is fork I created for myself to use this library with updated emoji list. I will try to maintain this fork and update lists. However, if you want additional stability, please use original package: `p3k/emoji-detector`. Thanks ^^
 
 Usage
 -----
